@@ -2,7 +2,7 @@
 <html long="es">
 <Head>
 <meta charset="utf-8">
-<Title>Boton de colores</Title>
+<Title> Boton de colores </Title>
 <link rel="stylesheet"estilos.css">
 </Head>
 <Body>
