@@ -1,6 +1,8 @@
+<Doctype>
+<html long="es">
 <Head>
 <meta charset="utf-8">
-<title>Boton de colores</Title>
+<Title>Boton de colores</Title>
 <link rel="stylesheet"estilos.css">
 </Head>
 <Body>
@@ -22,3 +24,4 @@
 <script scr="aplicacion.js"></script>
 </Body>
 </Html>
+ 
